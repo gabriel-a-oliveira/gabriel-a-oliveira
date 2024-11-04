@@ -22,7 +22,6 @@ Atualmente, estou aprofundando meus conhecimentos em:
 
 - **E-mail:** [gabrielalvesbosca@gmail.com](mailto:gabrielalvesbosca@gmail.com)
 - **LinkedIn:** [Gabriel Alves](https://www.linkedin.com/in/gabriel-alves-7376a61a4)
-- **GitHub:** [Gabriel Alves](https://github.com/SEU_USUARIO_GITHUB)
 
 <!-- ## 🚀 Projetos em Destaque
 
