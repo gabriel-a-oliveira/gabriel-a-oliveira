@@ -9,12 +9,6 @@ Sou um **Desenvolvedor Backend**. Tenho experiência em **C#**, **SQL Server**, 
 - **Banco de Dados:** SQL Server, PostgreSQL
 - **Versionamento:** Git, GitHub
 
-## 🌱 Estou Aprendendo
-
-Atualmente, estou aprofundando meus conhecimentos em:
-- Desenvolvimento de microserviços
-- Testes automatizados
-
 ## 📈 Minhas Estatísticas
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabriel-a-oliveira&show_icons=true&theme=radical)
