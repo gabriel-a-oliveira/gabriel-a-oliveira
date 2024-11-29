@@ -1,11 +1,11 @@
 # Olá, eu sou Gabriel Alves de Oliveira 👋
 
-Sou um **Desenvolvedor Backend**. Tenho experiência em **C#**, **SQL Server**, **PostgreSQL**, **Dart/Flutter**, e na criação de **APIs RESTful**.
+Sou um **Desenvolvedor Backend**. Tenho experiência em **C#**, **SQL Server**, **PostgreSQL**, e na criação de **APIs RESTful**.
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens de Programação:** C#, Dart
-- **Frameworks:** ASP.NET Core, Flutter
+- **Linguagens de Programação:** C#
+- **Frameworks:** ASP.NET Core
 - **Banco de Dados:** SQL Server, PostgreSQL
 - **Versionamento:** Git, GitHub
 
