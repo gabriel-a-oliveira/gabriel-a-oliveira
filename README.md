@@ -11,8 +11,9 @@ Sou um **Desenvolvedor Backend**. Tenho experiência em **C#**, **SQL Server**, 
 
 ## 📈 Minhas Estatísticas
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabriel-a-oliveira&show_icons=true&theme=radical&card_width=450)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-a-oliveira&layout=compact&theme=radical&card_width=450)](https://github.com/gabriel-a-oliveira/github-readme-stats)
 
 ## 📫 Como me encontrar
 
