@@ -1,11 +1,11 @@
 # Gabriel Alves de Oliveira 👋
 
-Sou um **Desenvolvedor Backend**. Tenho experiência em **C#**, **SQL Server**, **PostgreSQL**, e na criação de **APIs RESTful**.
+Sou um **Desenvolvedor Backend** com experiência em **C#**, **JavaScript**, **React**, **SQL Server**, **PostgreSQL**, e na criação de **APIs RESTful**.
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens de Programação:** C#
-- **Frameworks:** ASP.NET Core
+- **Linguagens de Programação:** C#, JavaScript
+- **Frameworks e Bibliotecas:** ASP.NET Core, React
 - **Banco de Dados:** SQL Server, PostgreSQL
 - **Versionamento:** Git, GitHub
 
