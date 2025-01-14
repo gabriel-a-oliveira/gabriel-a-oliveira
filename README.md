@@ -11,9 +11,9 @@ Sou um **Desenvolvedor Backend** com experiência em **C#**,  **Python**, **SQL 
 
 ## 📈 Minhas Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-a-oliveira&rank_icon=github&card_width=300&show_icons=true&hide=contribs,prs&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-a-oliveira&rank_icon=github&card_width=300&show_icons=true&hide=contribs,prs&theme=radical&count_private&include_all_commits)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-a-oliveira&layout=compact&theme=radical&exclude_repo=repo1,repo2)](https://github.com/gabriel-a-oliveira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-a-oliveira&layout=compact&theme=radical)](https://github.com/gabriel-a-oliveira/github-readme-stats)
 
 ## 📫 Como me encontrar
 
