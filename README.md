@@ -1,6 +1,13 @@
-# Gabriel Alves de Oliveira 👋
+<div align="center">
+  <a href="https://github.com/gabriel-a-oliveira">
+    <img height="180em" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel-a-oliveira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriel-a-oliveira&layout=compact&langs_count=7&theme=transparent"/>
+  </a>
+</div>
 
-Sou um **Desenvolvedor Backend** com experiência em **C#**,  **Python**, **SQL Server**, **PostgreSQL**, e na criação de **APIs RESTful**.
+<h1> Gabriel Alves de Oliveira </h1>
+
+Sou um **Desenvolvedor Backend** com experiência em **C#**, **Python**, **SQL Server**, **PostgreSQL**, e na criação de **APIs RESTful**.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -10,12 +17,6 @@ Sou um **Desenvolvedor Backend** com experiência em **C#**,  **Python**, **SQL 
 - **Versionamento:** Git, GitHub
 
 ## 📈 Minhas Estatísticas
-
-<div align="center">
-    <a href="https://github.com/sara-larissa">
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel-a-oliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriel-a-oliveira&layout=compact&langs_count=7&theme=radical"/>
-  </div>
 
 ## 📫 Como me encontrar
 
