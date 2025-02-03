@@ -5,18 +5,18 @@
   </a>
 </div>
 
-<h1> Gabriel Alves de Oliveira </h1>
+<h1 align="center">Gabriel Alves de Oliveira</h1>
 
-Sou um **Desenvolvedor Backend** com experiência em **C#**, **Python**, **SQL Server**, **PostgreSQL**, e na criação de **APIs RESTful**.
-
-## 🛠️ Tecnologias e Ferramentas
+Sou um **Desenvolvedor Back-End** com experiência em **C#** e **Python**, atuando com ASP.NET Core para criação de APIs RESTful e aplicações escaláveis, utilizando bancos de dados relacionais e metodologias ágeis para entregar soluções robustas.
 
 - **Linguagens de Programação:** C#, Python, JavaScript
-- **Frameworks e Bibliotecas:** ASP.NET Core, Flask, React
-- **Banco de Dados:** SQL Server, PostgreSQL
+- **Frameworks e Bibliotecas:** ASP.NET Core, Flask, React, Entity Framework Core
+- **Banco de Dados:** SQL Server, PostgreSQL, MySQL
 - **Versionamento:** Git, GitHub
-
-## 📈 Minhas Estatísticas
+- **Testes:** xUnit, Swagger, Postman
+- **Padrões e Arquiteturas:** Arquitetura Limpa, Microsserviços, Padrão de Repositório
+- **Metodologias Ágeis:** Scrum, Kanban, Azure DevOps, Trello
+- **Outros:** LINQ, Async/Await, AutoMapper
 
 ## 📫 Como me encontrar
 
