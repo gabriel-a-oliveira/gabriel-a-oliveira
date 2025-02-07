@@ -9,14 +9,14 @@
 
 Sou um **Desenvolvedor Back-End** com experiência em **C#** e **Python**, atuando com ASP.NET Core para criação de APIs RESTful e aplicações escaláveis, utilizando bancos de dados relacionais e metodologias ágeis para entregar soluções robustas.
 
-- **Linguagens de Programação:** C#, Python.
-- **Frameworks e Bibliotecas:**  ASP.NET Core (Web APIs, MVC), Entity Framework Core, Injeção de Dependência, Versionamento de APIs.
-- **Banco de Dados:** SQL Server, PostgreSQL, MySQL.
-- **Versionamento:** Git, GitHub.
-- **Testes:** xUnit, Swagger, Postman.
-- **Padrões e Arquiteturas:** POO, SOLID, DRY, YAGNI, KISS, CQRS, Arquitetura Limpa, Arquitetura Monolítica, Microsserviços, Padrão de Repositório.
-- **Metodologias Ágeis:** Scrum, Kanban, Azure DevOps, Trello.
-- **Outros:** LINQ, Async/Await, AutoMapper.
+**Linguagens**: C#, Python, JavaScript  
+**Front-end**: HTML, CSS  
+**Back-end**: ASP.NET Core (Web APIs, MVC), Entity Framework Core, Injeção de Dependência, Versionamento de APIs  
+**Padrões e Arquiteturas**: POO, SOLID, DRY, YAGNI, KISS, CQRS, Arquitetura Limpa, Arquitetura Monolítica, Microsserviços, Padrão de Repositório  
+**Banco de Dados**: SQL Server, PostgreSQL, MySQL  
+**Testes**: xUnit, Swagger, Postman  
+**Metodologias Ágeis**: Scrum, Kanban, Azure DevOps, Trello  
+**Outros**: LINQ, Async/Await, AutoMapper, Git, GitHub Desktop
 
 ## 📫 Como me encontrar
 
