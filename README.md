@@ -7,7 +7,7 @@
 
 <h1 align="center">Gabriel Alves de Oliveira</h1>
 
-Sou um **Desenvolvedor Back-End** com experiência em **C#** e **Python**, atuando com ASP.NET Core para criação de APIs RESTful e aplicações escaláveis, utilizando bancos de dados relacionais e metodologias ágeis para entregar soluções robustas.
+Sou um **Desenvolvedor de Software** com experiência em **C#** e **Python**, atuando com ASP.NET Core para criação de APIs RESTful e aplicações escaláveis, utilizando bancos de dados relacionais e metodologias ágeis para entregar soluções robustas.
 
 **Linguagens**: C#, Python, JavaScript  
 **Front-end**: HTML, CSS  
