@@ -41,6 +41,6 @@ Scrum, Kanban, Azure DevOps
 
 ## 📫 Como me encontrar
 
-- **E-mail:** [gabrielalvesbosca@gmail.com](mailto:gabrielalvesbosca@gmail.com)
+- **E-mail:** [dev.gabrieloli@gmail.com](mailto:dev.gabrieloli@gmail.com)
 - **LinkedIn:** [Gabriel Alves](https://www.linkedin.com/in/gabriel-alves-7376a61a4)
 
