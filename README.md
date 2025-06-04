@@ -9,8 +9,6 @@
 
 Sou um **Desenvolvedor de Software** com experiência em **C#** e **Python**, atuando com ASP.NET Core para criação de APIs RESTful e aplicações escaláveis, utilizando bancos de dados relacionais e metodologias ágeis para entregar soluções robustas.
 
-**Confira meu portfólio!** [Clique aqui para acessar](https://gabrielalvesoliveira.vercel.app/)
-
 # Tecnologias e Habilidades  
 
 **Front-end:**  
