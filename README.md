@@ -1,10 +1,3 @@
-<div align="center">
-  <a href="https://github.com/gabriel-a-oliveira">
-    <img height="190em" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel-a-oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="175em" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriel-a-oliveira&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
-
 <h1 align="center">Gabriel Alves de Oliveira</h1>
 
 Sou um **Desenvolvedor de Software** com experiência em **C#** e **Python**, atuando com ASP.NET Core para criação de APIs RESTful e aplicações escaláveis, utilizando bancos de dados relacionais e metodologias ágeis para entregar soluções robustas.
